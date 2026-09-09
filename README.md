@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Toqa Mohamed Fathy 👋</h1>
+<h1 align="center">Hi, I'm Toqa Mohamed Fathy </h1>
 <h3 align="center">AI Engineering Student | Machine Learning · Deep Learning · NLP</h3>
 
 <p align="center">
