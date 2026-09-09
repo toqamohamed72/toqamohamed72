@@ -18,7 +18,7 @@ I also do freelance data analysis and machine learning work on **Khamsat**.
 - 🔭 Currently building AI Engineering projects covering RAG pipelines, LLM applications, and production-style ML services
 - 🌱 Deepening my skills in NLP (especially Arabic NLP) and LLM-based systems
 - 💬 Ask me about: classification/regression pipelines, Arabic text preprocessing, RAG with LangChain, or leakage-safe ML workflows
-- 📫 Reach me: **[toqa72000@gmail.com]** · **[🔗linkedin.com/in/toqa-mohamed-67039240b]**
+- 📫 Reach me: **[toqa72000@gmail.com]** · **[[🔗linkedin.com/in/toqa-mohamed-67039240b](https://www.linkedin.com/in/toqa-mohamed-67039240b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOxOW0qdxSEObkfCEbdF47A%3D%3D)]**
 
 ---
 
